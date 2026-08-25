@@ -1,9 +1,9 @@
 {
   "steam": {
-    "appId": 1966720,
+    "appId": 4576510,
     "gameDistDepots": [
       {
-        "depotId": 1966721,
+        "depotId": 4576511,
         "distributionName": "Windows",
         "isDefault": true
       }
@@ -17,13 +17,12 @@
       "mscorlib.dll"
     ],
     "assembliesToPublicise": [
-      "Assembly-CSharp.dll",
-      "Assembly-CSharp-firstpass.dll"
+      "Assembly-CSharp.dll"
     ],
     "isIL2Cpp": false
   },
   "nuget": {
-    "name": "LethalCompany.GameLibs.Steam",
-    "description": "Stripped and publicised game libraries for modding Lethal Company."
+    "name": "CasualtiesUnknown.GameLibs.Steam",
+    "description": "Stripped and publicised game libraries for modding Casualties: Unknown."
   }
 }
